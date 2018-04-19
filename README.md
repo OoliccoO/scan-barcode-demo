@@ -6,4 +6,4 @@
 
 
 
-<img width=360px height=640px align="center" src="https://github.com/OoliccoO/scan-barcode-demo/blob/master/demo/ezgif.com-video-to-gif-2.gif"/>
+<img width=180px height=320px align="center" src="https://github.com/OoliccoO/scan-barcode-demo/blob/master/demo/ezgif.com-video-to-gif-2.gif"/>
