@@ -1,10 +1,12 @@
 
 ## 演示下载和使用提示（必读）
-（1）. 你可以直接点击[下载](https://github.com/OoliccoO/scan-barcode-demo/archive/master.zip)或者在当前页面点击Clone or download按钮（绿色按钮），然后点击Download ZIP即可将演示应用（目前只提供Android版本）下载到本地，解压即可看到演示应用和相关资料。<br>
+（1）. 你可以直接点击[下载](https://github.com/OoliccoO/scan-barcode-demo/archive/master.zip)来下载资料或者扫描下方二维码进行下载。<br>
+<img width=218px height=215px align="center" src="https://github.com/OoliccoO/scan-barcode-demo/blob/master/demo/E3761D28-186B-499D-BC07-9C1B55E44B28.png"/><br>
+你亦可在当前页面点击Clone or download按钮（绿色按钮），然后点击Download ZIP即可将演示应用（目前只提供Android版本）下载到本地，解压即可看到演示应用和相关资料。<br>
+<img width=843px height=51px align="center" src="https://github.com/OoliccoO/scan-barcode-demo/blob/master/demo/724B467B-0B37-4BCA-8A14-1AA5EA303425.png"/><br>
 （2）. 应用仅用于演示使用，防非授权使用，使用应用时请将系统的日期设置为**2017年6月1日（必须）**，否则无法正常扫码。<br>
-（3）. 提供的演示应用只开放了30万像素的扫码方式，其他级别已屏蔽。因30万像素时采集清晰度有限，故在扫码时注意不要过远距离进行扫码。<br>
+（3）. 提供的演示应用只开放了30万像素的扫码方式，其他级别已屏蔽；因30万像素时采集清晰度有限，故在扫码时注意不要过远距离进行扫码。另外应用显示的扫码耗时为应用上层调用时间，实际解码时间要比显示的时间短。<br>
 （4）. 扫码演示程序尚不是最优状态，若使用过程中出现问题或者需要咨询更多，可发邮件给笔者，笔者将尽快给你答复。<br><br>
-<img width=843px height=51px align="center" src="https://github.com/OoliccoO/scan-barcode-demo/blob/master/demo/724B467B-0B37-4BCA-8A14-1AA5EA303425.png"/><br><br>
 
 ## 缺省/模糊QR全屏扫码
 扫码宗旨：**只有一个位置探测器也要尽可能的将条码解析出来！**<br>
