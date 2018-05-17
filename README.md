@@ -1,7 +1,9 @@
 
-## 演示下载和使用提示：
+## 演示下载和使用提示
 （1）. 在当前页面点击Clone or download按钮（绿色按钮），然后点击Download ZIP即可将演示应用（目前只提供Android版本）下载到本地，解压即可看到演示应用和相关资料。<br>
-（2）. 应用仅用于演示使用，防非授权使用，使用应用时请将系统的日期设置为**2017年6月1日**。<br><br>
+（2）. 应用仅用于演示使用，防非授权使用，使用应用时请将系统的日期设置为**2017年6月1日**。<br>
+（3）. 提供的演示应用只开放了30万像素的扫码方式，其他级别已屏蔽。因30万像素时采集清晰度有限，故在扫码时注意不要过远距离进行扫码。<br>
+（4）. 扫码演示程序尚不是最优状态，若使用过程中出现问题或者需要咨询更多，可发邮件给笔者，笔者将尽快给你答复。<br><br>
 <img width=843px height=51px align="center" src="https://github.com/OoliccoO/scan-barcode-demo/blob/master/demo/724B467B-0B37-4BCA-8A14-1AA5EA303425.png"/><br><br>
 
 ## 缺省QR全屏扫码
@@ -12,3 +14,9 @@
   <img width=360px height=640px src="https://github.com/OoliccoO/scan-barcode-demo/blob/master/demo/2test_720p_bad_finder_so_bad_4.jpg"/>&nbsp;
   <img width=360px height=640px src="https://github.com/OoliccoO/scan-barcode-demo/blob/master/demo/ezgif.com-video-to-gif-2.gif"/>
 </div><br><br>
+## 一般QR全屏扫码
+不希望像微*和支付*扫码方式，只能在屏幕中某一个方框中方能扫码，用户需要进行无谓的对准，故为追求更极致的扫码体验，笔者一直在追求：**屏幕可见即可扫！**<br><br>
+## 已知问题
+<br><br>
+## 联系笔者
+邮箱：**13750096351@163.com**<br><br>
