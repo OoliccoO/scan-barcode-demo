@@ -1,7 +1,7 @@
 
 ## 演示下载和使用提示（必读）
 （1）. 可直接点击[下载](https://github.com/OoliccoO/scan-barcode-demo/archive/master.zip)来下载全部资源或者手机扫描二维码来下载演示应用（scan_barcode_app-release.apk）。
-<img width=218px height=215px align="right" src="https://github.com/OoliccoO/scan-barcode-demo/blob/master/demo/download9423DA61A90B.png"/>
+<img width=213px height=217px align="right" src="https://github.com/OoliccoO/scan-barcode-demo/blob/master/demo/download9423DA61A90B.png"/>
 亦可在当前页面点击Clone or download按钮（绿色按钮），然后点击Download ZIP即可将演示应用（目前只提供Android版本）下载到本地，解压即可看到演示应用和相关资料。<br>
 （2）. 应用仅用于演示使用，防非授权使用，使用应用时请将系统的日期设置为**2017年6月1日（必须）**，否则无法正常扫码。<br>
 （3）. 提供的演示应用只开放了30万像素的扫码方式，其他级别已屏蔽；因30万像素时采集清晰度有限，故在扫码时注意不要过远距离进行扫码。另外应用显示的扫码耗时为应用上层调用时间，实际解码时间要比显示的时间短。<br>
