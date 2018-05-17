@@ -19,7 +19,7 @@
 不希望像微&bull;和支付&bull;扫码方式，只能在屏幕中某一个方框中方能扫码，用户需要进行无谓的对准，故为追求更极致更快速的扫码体验，笔者一直在追求：**屏幕可见即可扫！**<br><br>
 
 <div width="100%" align="center">
- <img width=640px height=480px src="https://github.com/OoliccoO/scan-barcode-demo/blob/master/demo/0_bitmatrix_12_07_22_11_debug.png"/>
+ <img width=320px height=240px src="https://github.com/OoliccoO/scan-barcode-demo/blob/master/demo/0_bitmatrix_12_07_22_11_debug.png"/>
 </div><br><br>
 
 在三个位置探测器存在的时候，无论条码出现在屏幕中何处或者如何摆放，都应得以极速的识别，让用户无需在“条码”这个入口进行不必要的等待，笔者不会满足现有的扫码效果，在不停的追求更极致的扫码效果和体验中......，敬请期待。<br>
