@@ -14,9 +14,12 @@
   <img width=360px height=640px src="https://github.com/OoliccoO/scan-barcode-demo/blob/master/demo/2test_720p_bad_finder_so_bad_4.jpg"/>&nbsp;
   <img width=360px height=640px src="https://github.com/OoliccoO/scan-barcode-demo/blob/master/demo/ezgif.com-video-to-gif-2.gif"/>
 </div><br><br>
+
 ## 一般QR全屏扫码
 不希望像微*和支付*扫码方式，只能在屏幕中某一个方框中方能扫码，用户需要进行无谓的对准，故为追求更极致的扫码体验，笔者一直在追求：**屏幕可见即可扫！**<br><br>
+
 ## 已知问题
 <br><br>
+
 ## 联系笔者
 邮箱：**13750096351@163.com**<br><br>
