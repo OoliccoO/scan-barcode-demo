@@ -16,7 +16,7 @@
 </div><br><br>
 
 ## 一般QR全屏扫码
-不希望像微&bull;和支付&bull;扫码方式，只能在屏幕中某一个方框中方能扫码，用户需要进行无谓的对准，故为追求更极致更快速的扫码体验，笔者一直在追求：**屏幕可见即可扫！**<br><br>
+不希望像微&bull;和支付&bull;扫码方式，只能在屏幕中某一个方框中方能扫码（通过控制图像尺寸达到快速的效果），用户需要进行无谓的对准，故为追求更极致更快速的扫码体验，笔者一直在追求：**屏幕可见即可扫！**<br><br>
 
 <div width="100%" align="center">
  <img width=320px height=240px src="https://github.com/OoliccoO/scan-barcode-demo/blob/master/demo/0_bitmatrix_12_07_22_11_debug.png"/>
