@@ -15,8 +15,8 @@
   <img width=360px height=640px src="https://github.com/OoliccoO/scan-barcode-demo/blob/master/demo/ezgif.com-video-to-gif-2.gif"/>
 </div><br><br>
 <div width="100%" align="left">
-  最新效果：
-<br>
+  最新效果(基本信息：测试设备为 MX6，采样像素为 480 * 640，后摄扫码方式并且镜片有明显磨痕)：
+<br><br>
   <img width=360px height=640px src="https://github.com/OoliccoO/scan-barcode-demo/blob/master/demo/vid20220518174556.gif"/>
 </div><br><br>
 
