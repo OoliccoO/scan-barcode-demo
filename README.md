@@ -14,6 +14,9 @@
   <img width=360px height=640px src="https://github.com/OoliccoO/scan-barcode-demo/blob/master/demo/2test_720p_bad_finder_so_bad_4.jpg"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img width=360px height=640px src="https://github.com/OoliccoO/scan-barcode-demo/blob/master/demo/ezgif.com-video-to-gif-2.gif"/>
 </div><br><br>
+<div width="100%" align="left">
+  <img width=360px height=640px src="https://github.com/OoliccoO/scan-barcode-demo/blob/master/demo/vid20220518174556.gif"/>
+</div><br><br>
 
 ## 一般QR全屏扫码
 不希望像微&bull;和支付&bull;扫码方式，只能在屏幕中某一个方框中方能扫码（通过控制图像尺寸达到快速的效果），用户需要进行无谓的对准，故为追求更极致更快速的扫码体验，笔者一直在追求：**屏幕可见即可扫！**<br><br>
