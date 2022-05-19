@@ -15,6 +15,8 @@
   <img width=360px height=640px src="https://github.com/OoliccoO/scan-barcode-demo/blob/master/demo/ezgif.com-video-to-gif-2.gif"/>
 </div><br><br>
 <div width="100%" align="left">
+  最新效果：
+<br>
   <img width=360px height=640px src="https://github.com/OoliccoO/scan-barcode-demo/blob/master/demo/vid20220518174556.gif"/>
 </div><br><br>
 
