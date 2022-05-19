@@ -28,7 +28,7 @@
 </div><br><br>
 
 在三个位置探测器存在的时候，无论条码出现在屏幕中何处或者如何摆放，都应得以极速的识别，让用户无需在“条码”这个入口进行不必要的等待，笔者不会满足现有的扫码效果，在不停的追求更极致的扫码效果和体验中......，敬请期待。<br>
-请[下载](https://github.com/OoliccoO/scan-barcode-demo/raw/master/demo/scan_barcode_app-release.apk)并安装演示应用来体验吧。<br><br>
+请[下载](https://github.com/OoliccoO/scan-barcode-demo/raw/master/demo/scan_barcode_app-release.apk)(旧版本)并安装演示应用来体验吧。<br><br>
 
 ## 已知问题
 1.第一次安装和启动应用时部分手机/设备可能出现闪退的现象，重新启动应用方可正常使用。<br>
